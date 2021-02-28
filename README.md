@@ -13,15 +13,14 @@ The purpose of this analysis is to uncover trends in relation to their launch da
 ## Analysis and Challenges
 
 **Theater/Plays Outcomes by Launch Date** 
-[Theater Outcomes by Launch Date] (.....png) represents the **Theater** category monthly outcomes with successful, failure and cancel counts. Live state is excluded. The challenge is the year conversion in the rows.
- 
-[Theather Outcome by Launch Date-Pivot] (.........png)
+
+![Theater_Outcomes_vs_Launch](https://github.com/Dorislava/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) r
+Represents the **Theater** category monthly outcomes with successful, failure and cancel counts. Live state is excluded. The challenge is the year conversion in the rows.
 
 **Outcome based on Goals**
 ![Outcomes_vs_Goals](https://github.com/Dorislava/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
-[Outcome based on Goals] (https://github.com/Dorislava/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) represents the percentage trends of each outcome based on the dollar amount ranges in Goals for all projects.
-[Outcome based on Goals - Pivot] (....png)
+Represents the percentage trends of each outcome based on the dollar amount ranges in Goals for all projects.
 
 The data suggests that the play's depends of the date of the campaign launch, the funding goal and the size of the budget.
 
@@ -30,7 +29,7 @@ The data suggests that the play's depends of the date of the campaign launch, th
 Theater Outcome by Launch Date
 
 The data represents the rate of each campaign outcome based on the launch date for only theater campaigns. 
-Overall demand increases from Feb to August.  The highest volume of successful campaigns were launched in May ,while the lowest volume of successful campaigns were launched in December. 
+Overall demand increases from Feb to August. The highest volume of successful campaigns were launched in May, while the lowest volume of successful campaigns were launched in December. 
 
 Outcomes based on Goals
 
