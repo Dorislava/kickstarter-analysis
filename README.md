@@ -14,7 +14,7 @@ The purpose of this analysis is to uncover trends in relation to their launch da
 
 **Theater/Plays Outcomes by Launch Date** 
 
-![Theater_Outcomes_vs_Launch](https://github.com/Dorislava/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) r
+![Theater_Outcomes_vs_Launch](https://github.com/Dorislava/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) 
 Represents the **Theater** category monthly outcomes with successful, failure and cancel counts. Live state is excluded. The challenge is the year conversion in the rows.
 
 **Outcome based on Goals**
